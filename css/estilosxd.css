@@ -14,8 +14,27 @@
 }
 
 .verde{color: rgb(33, 122, 33);}
+
 .fonverde{background-color: rgb(7, 77, 7);}
-body{
+
+.fondo{
     background-size: cover;
     background-image:url(/img/cabezas-monstruos-verdes-tentaculos-sobre-fondo-rojo_771703-6759.jpg);
+}
+
+.portada {
+    background-size: cover;
+    background-image:url(/img/fondoportada.webp);
+}
+
+.color1{
+        background-color:darkgray;
+}
+
+.color2{
+    background-color: purple; 
+}
+
+.color3 {
+    background-color:darkkhaki;
 }
