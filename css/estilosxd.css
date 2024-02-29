@@ -34,3 +34,7 @@
 .color3 {
     background-color:darkkhaki;
 }
+
+body {
+    background: linear-gradient(to right, #ffcccb, #ffb6c1); /* Cambia los colores según tus preferencias */
+  }
