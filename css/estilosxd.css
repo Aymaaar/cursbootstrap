@@ -39,3 +39,8 @@
 body {
     background: linear-gradient(to right, #ffcccb, #ffb6c1);
   }
+
+ .portada2 {
+    background-size: cover;
+    background-image:url(/img/Ithaqua-de-August-Derleth.webp);
+ }
